@@ -6,12 +6,12 @@
 ## Introduction
 
 Les documents disponibles sur ce dépot GitHub sont à destination des étudiants de la deuxième année de classe préparatoire de l'école d'ingénieurs
-[ESIREM](http://esirem.u-bourgogne.fr) - Dijon - France.
+[ESIREM](https://esirem.u-bourgogne.fr) - Dijon - France.
 Ils sont susceptibles d'évoluer au fil du temps.
 
 ## Les infos 2023-2024:
 
-* 21/11/2023: ajout cours 00 (Introduction) and cours 01 (XXX)
+* 29/11/2023: ajout cours 00 (Introduction)
 
 
 ## Cours 2023-2024
@@ -19,8 +19,9 @@ Ils sont susceptibles d'évoluer au fil du temps.
 Les cours sont organisés en chapitres, chacun d'entre eux étant dédiés à un aspect spécifique du module.
 Ils sont disponibles au téléchargement au format pdf :
 
-* Chapitre 00: [Introduction](http://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 27 MB - Mis en jour le 21/11/2023
-* ...
+* Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 13 MB - Mis en jour le 29/11/2023
+* Chapitre 01 : A suivre.
+
 
 ## Licences
 
