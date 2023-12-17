@@ -11,7 +11,10 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ## Les infos 2023-2024:
 
-* 29/11/2023: ajout cours 00 (Introduction)
+* 17/12/2023: Ajout du Chapitre 02 - [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf)
+* 16/12/2023: Ajout du Chapitre 01 - [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf)
+* 16/12/2023: Mis à jour du Chapitre 00 - [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf)
+* 29/11/2023: Ajout du Chapitre 00 - [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf)
 
 
 ## Cours 2023-2024
@@ -19,8 +22,9 @@ Ils sont susceptibles d'évoluer au fil du temps.
 Les cours sont organisés en chapitres, chacun d'entre eux étant dédiés à un aspect spécifique du module.
 Ils sont disponibles au téléchargement au format pdf :
 
-* Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 13 MB - Mis en jour le 29/11/2023
-* Chapitre 01 : A suivre.
+* Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 5.6 MB - Mis à jour le 16/12/2023
+* Chapitre 01 : [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf) - 1.5 MB - Mis à jour le 16/12/2023
+* Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf) - 4.4 MB - Mis à jour le 17/12/2023
 
 
 ## Licences
