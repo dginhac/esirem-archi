@@ -26,6 +26,11 @@ Ils sont disponibles au téléchargement au format pdf :
 * Chapitre 01 : [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf) - 1.5 MB - Mis à jour le 16/12/2023
 * Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf) - 4.4 MB - Mis à jour le 17/12/2023
 
+## TD 2023-2024
+Les sujets de TD sont disponibles :
+* [TD 0](td0.md) : Installation du simulateur ARM
+* [TD 1](td1.md) : Initiation à la programmation assembleur ARM
+
 
 ## Licences
 
