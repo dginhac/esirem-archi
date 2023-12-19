@@ -25,7 +25,7 @@ Pour cela, dans un terminal, utilisez la commande ```pip3 install NOM_PACKAGE```
 Le [simulateur ARM](http://gif1001-sim.gel.ulaval.ca/?page=accueil) a été développé originalement par l'Université de Laval pour son module intitulé [GIF-1001 Ordinateurs: Structure et Applications](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/gif-1001-ordinateurs-structure-et-applications.html).
 Son code source est disponible sut [GitHub](https://github.com/mgard/epater) sous license GPL V3.0.
 
-Pour les besoins de ces TD/TP, un fork a été réalisé et vous pouvez donc cloner le dépôt [GitHub](https://github.com/dginhac/arm-simulateur) sur votre PC. Une fois cloné, dans le dossier du simulateur, il faut exécuter
+Pour les besoins de ces TD/TP, un [fork](https://github.com/dginhac/arm-simulateur) a été réalisé et vous pouvez donc cloner le dépôt Github de ce [fork](https://github.com/dginhac/arm-simulateur) sur votre PC. Une fois cloné, dans le dossier du simulateur, il faut exécuter
 
  ```python utils/po2mo.py```
 
