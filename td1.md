@@ -69,7 +69,7 @@ Ajoutez la soustraction ```v2 - v1``` et stockez le résultat dans le registre R
 Observez le codage en mémoire de R6 et R7. Comment peut-on passer de R6 à R7 (ou inversement) ?
 
 
-## Exercice 4 : Addition/soustraction de variables
+## Exercice 4 : Addition/soustraction de variables - La suite
 
 Cet exercice utilise l'instruction ```STR``` (pages 23 à 25).
 
