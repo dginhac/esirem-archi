@@ -51,7 +51,7 @@ Par exemple ```monEspace ALLOC32 10``` crée un espace contigu de 10 cases mémo
 
 Ecrivez un programme qui déclare un espace ```resultats``` de 2 mots de 32 bits, puis une variable 32 bits ```v1``` de valeur 0x1337, puis une deuxième variable 32 bits ```v2``` initialisée à 0xFD;
 
-Lancez la simulation et visualisez la mémoire de la section DATA. Quelle est l'adresse de sp, l'adresse de v1, l'adresse de v2 ?
+Lancez la simulation et visualisez la mémoire de la section DATA. Quelle est l'adresse de v1, l'adresse de v2 ?
 Comment sont organisées les données de v1 et v2 ?
 
 
