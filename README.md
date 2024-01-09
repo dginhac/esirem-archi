@@ -26,7 +26,8 @@ Ils sont disponibles au téléchargement au format pdf :
 
 * Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 5.6 MB - Mis à jour le 16/12/2023
 * Chapitre 01 : [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf) - 1.5 MB - Mis à jour le 16/12/2023
-* Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf) - 4.4 MB - Mis à jour le 17/12/2023
+* Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf) - 2.9 MB - Mis à jour le 05/01/2024
+
 
 ## TD 2023-2024
 Les sujets de TD sont disponibles :
