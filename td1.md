@@ -152,3 +152,50 @@ En l'absence de connaissance sur la manière de créer une boucle en assembleur 
 Modifiez le code de l'exercice 7 pour copier à l'envers les données de ```source``` vers ```destination```, c'est à dire que 
 la première donnée de ```source``` se retrouvera en dernière position de ```dest```, etc.
 
+## Exercice 9 : Analyse de l'instruction ADD
+
+Recopiez le code suivant :
+
+```asm
+
+	SECTION INTVEC
+
+B main
+
+
+SECTION CODE
+
+main
+
+LDR R0, =val1
+LDR R1, [R0], #4
+LDR R2, [R0], #4
+LDR R3, [R0], #4
+LDR R4, [R0], #4
+
+ADD R6, R2, R1
+ADD R7, R4, R3
+
+fin
+B fin
+
+SECTION DATA
+
+val1 ASSIGN32 0x10
+val2 ASSIGN32 0x20
+val3 ASSIGN32 0x30
+val4 ASSIGN32 0x40
+```
+
+Exécutez ce code et trouvez dans la mémoire programme les valeurs sur 4 octets des instructions ```ADD R6, R2, R1``` et ```ADD R7, R4, R5```.
+En vous aidant de la documentation [ARM](https://ginhac.com/teaching/archi/armv4-architecture-reference-manuel.pdf) (voir section A3.4), comprenez comment les numéros des registres sont encodés dans l'instruction ```ADD```.
+
+## Exercice 10 : Modification de code
+
+En reprenant le code de l'exercice 9, ajouter des instructions entre la dernière instruction ```LDR``` et la première ```ADD``` qui vont modifier le code des deux instructions ```ADD```. Par exemple, écrivez le code permettant de transformer l'instruction ```ADD R6, R2, R1``` en ```ADD R8, R2, R1``` et l'instruction ```ADD R7, R4, R3``` en ```ADD R7, R1, R2```.
+
+Pour cela, vous devez déterminer le code sur 4 octets des nouvelles instructions et remplacer le code des instructions originales par le code modifié aux adresses mémoire ou sont stockées les instructions originales.
+
+
+
+
