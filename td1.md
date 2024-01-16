@@ -137,14 +137,16 @@ vers la gauche (voir page 18), écrivez un programme qui modifie la valeur d'une
 * ```0x00010000``` dans R5;
 * ```0x00400000``` dans R6;
 * ```0x00080000``` dans R7;
-* ```0x01000000``` dans R8;
+* ```0x01000000`` dans R8;
 
 ## Exercice 7 : Tableau
 
 Ecrivez un programme qui copie le contenu d'un tableau ```source``` de 4 éléments vers un tableau ```dest```.
 Le tableau ```source```doit être initialisé avec l'instruction ```ASSIGN32``` et le tableau ```dest``` doit seulement être alloué en mémoire avec ```ALLOC32```.
 
-En l'absence de connaissance sur la manière de créer une boucle en assembleur ARM, vous ferez les 4 copies successives des données de ```source``` vers ```dest``` en utilisant correctement un des modes d'adressage de ```LDR``` et ```STR``` qui permet d'incrémenter les adresses après lecture ou écriture (voir exercice 4).
+Dans un premier temps, en l'absence de connaissance sur la manière de créer une boucle en assembleur ARM, vous ferez les 4 copies successives des données de ```source``` vers ```dest``` en utilisant correctement un des modes d'adressage de ```LDR``` et ```STR``` qui permet d'incrémenter les adresses après lecture ou écriture (voir exercice 4).
+
+Dans un deuxième temps, analyser le fonctionnement d'une boucle sur n itérations (typiquement une boucle for en C) et proposez un code assembleur qui évite de faire les copies successives.
 
 
 ## Exercice 8 : Tableau
