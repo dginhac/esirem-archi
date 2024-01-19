@@ -11,6 +11,7 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ## Les infos 2023-2024:
 
+* 19/01/2024 : Ajout du TD 2 - [Conditions, branchements, fonctions, pile](td2.md)
 * 20/12/2023 : Ajout du TD 1 - [Initiation à la programmation assembleur](td1.md)
 * 20/12/2023 : Ajout du TD 0 - [Installation du simulateur ARM](td0.md)
 * 17/12/2023 : Ajout du Chapitre 02 - [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf)
@@ -31,8 +32,10 @@ Ils sont disponibles au téléchargement au format pdf :
 
 ## TD 2023-2024
 Les sujets de TD sont disponibles :
+
 * [TD 0](td0.md) : Installation du simulateur ARM - Mis à jour le 20/12/2023
 * [TD 1](td1.md) : Initiation à la programmation assembleur ARM - Mis à jour le 20/12/2023
+* [TD 2](td2.md) : Conditions, branchements, fonctions, pile - Mis à jour le 19/01/2024
 
 
 ## Licences
