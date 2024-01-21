@@ -11,6 +11,7 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ## Les infos 2023-2024:
 
+* 21/01/2024 : Ajout du Chapitre 03 - [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf)
 * 19/01/2024 : Ajout du TD 2 - [Conditions, branchements, fonctions, pile](td2.md)
 * 20/12/2023 : Ajout du TD 1 - [Initiation à la programmation assembleur](td1.md)
 * 20/12/2023 : Ajout du TD 0 - [Installation du simulateur ARM](td0.md)
@@ -28,6 +29,7 @@ Ils sont disponibles au téléchargement au format pdf :
 * Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 5.6 MB - Mis à jour le 16/12/2023
 * Chapitre 01 : [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf) - 1.5 MB - Mis à jour le 16/12/2023
 * Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf) - 2.9 MB - Mis à jour le 05/01/2024
+* Chapitre 03 : [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf) - 9 MB - Mis à jour le 21/01/2024
 
 
 ## TD 2023-2024
