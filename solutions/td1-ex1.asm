@@ -1,0 +1,25 @@
+; TD1 - Ex 1
+
+SECTION INTVEC
+
+B main
+
+SECTION CODE
+
+main
+
+MOV R0, #0xF7
+MOV R1, #0xDE
+ADD R5, R0, R1
+
+
+MOV R7, #0x7FFFFFF0
+MOV R8, #0x10
+ADD R12, R7, R8
+
+
+fin
+B fin
+
+SECTION DATA
+

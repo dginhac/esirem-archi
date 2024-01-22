@@ -32,6 +32,9 @@ Modifiez le programme en utilisant les valeurs 0x7FFFFFF0 et 0x10.
 
 Quelle est la valeur du résultat de l'addition en hexadécimal et en décimal signé ? 
 
+### 1. Corrigé Ex. 1
+
+Voir le [corrigé](solutions/td1-ex1.asm).
 
 ## Exercice 2 : Déclaration de variables
 
@@ -54,6 +57,9 @@ Ecrivez un programme qui déclare un espace ```resultats``` de 2 mots de 32 bits
 Lancez la simulation et visualisez la mémoire de la section DATA. Quelle est l'adresse de v1, l'adresse de v2 ?
 Comment sont organisées les données de v1 et v2 ?
 
+### Corrigé Ex. 2
+
+Voir le [corrigé](solutions/td1-ex2.asm).
 
 ## Exercice 3 : Addition/soustraction de variables
 
@@ -68,6 +74,9 @@ Ajoutez la soustraction ```v2 - v1``` et stockez le résultat dans le registre R
 
 Observez le codage en mémoire de R6 et R7. Comment peut-on passer de R6 à R7 (ou inversement) ?
 
+### Corrigé Ex. 3
+
+Voir le [corrigé](solutions/td1-ex3.asm).
 
 ## Exercice 4 : Addition/soustraction de variables - La suite
 
@@ -79,6 +88,10 @@ Pour cela, utilisez l'instruction ```LDR``` pour charger l'adresse de ```resulta
 Ensuite il suffira d'incrémenter la valeur du registre ```Rx``` de 4 octets pour accèder à la deuxième adresse ou devra être stocké le résultat de la soustraction. L'incrémentation de 4 octets peut se faire soit en utilisant l'instruction ```ADD``` sur le registre ```Rx```, soit en utilisant un des modes spécifiques d'adressage qui permet de faire directement l'incrémentation dans l'instruction ```LDR``` (voir page 24).
 
 Ecrivez les 2 méthodes.
+
+### Corrigé Ex. 4
+
+Voir le [corrigé](solutions/td1-ex4.asm).
 
 ## Exercice 5 : Addressage mémoire
 
@@ -124,6 +137,11 @@ tmp5 ASSIGN32 0x9A, 0x4D, 0x54, 0x139
 
 Exécutez ce code et observez / comprenez ce que fait chaque instruction.
 
+### Corrigé Ex. 5
+
+Voir le [corrigé](solutions/td1-ex5.asm).
+
+
 ## Exercice 6 : Décalage mémoire
 
 En utilisant les instructions ```LSR``` qui réalise un décalage vers la droite et ```LSL``` qui réalise un décalage 
@@ -139,6 +157,10 @@ vers la gauche (voir page 18), écrivez un programme qui modifie la valeur d'une
 * ```0x00080000``` dans R7;
 * ```0x01000000`` dans R8;
 
+### Corrigé Ex. 6
+
+Voir le [corrigé](solutions/td1-ex6.asm).
+
 ## Exercice 7 : Tableau
 
 Ecrivez un programme qui copie le contenu d'un tableau ```source``` de 4 éléments vers un tableau ```dest```.
@@ -148,11 +170,18 @@ Dans un premier temps, en l'absence de connaissance sur la manière de créer un
 
 Dans un deuxième temps, analyser le fonctionnement d'une boucle sur n itérations (typiquement une boucle for en C) et proposez un code assembleur qui évite de faire les copies successives.
 
+### Corrigé Ex. 7
+
+Voir le [corrigé](solutions/td1-ex7.asm).
 
 ## Exercice 8 : Tableau
 
 Modifiez le code de l'exercice 7 pour copier à l'envers les données de ```source``` vers ```destination```, c'est à dire que 
 la première donnée de ```source``` se retrouvera en dernière position de ```dest```, etc.
+
+### Corrigé Ex. 8
+
+Voir le [corrigé](solutions/td1-ex8.asm).
 
 ## Exercice 9 : Analyse de l'instruction ADD
 
@@ -197,6 +226,11 @@ En vous aidant de la documentation [ARM](https://ginhac.com/teaching/archi/armv4
 En reprenant le code de l'exercice 9, ajouter des instructions entre la dernière instruction ```LDR``` et la première ```ADD``` qui vont modifier le code des deux instructions ```ADD```. Par exemple, écrivez le code permettant de transformer l'instruction ```ADD R6, R2, R1``` en ```ADD R8, R2, R1``` et l'instruction ```ADD R7, R4, R3``` en ```ADD R7, R1, R2```.
 
 Pour cela, vous devez déterminer le code sur 4 octets des nouvelles instructions et remplacer le code des instructions originales par le code modifié aux adresses mémoire ou sont stockées les instructions originales.
+
+### Corrigé Ex. 10
+
+
+Voir le [corrigé](solutions/td1-ex10.asm).
 
 
 
