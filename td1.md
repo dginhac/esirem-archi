@@ -155,9 +155,9 @@ vers la gauche (voir page 18), écrivez un programme qui modifie la valeur d'une
 * ```0x00010000``` dans R5;
 * ```0x00400000``` dans R6;
 * ```0x00080000``` dans R7;
-* ```0x01000000`` dans R8;
+* ```0x01000000``` dans R8;
 
-### Corrigé Ex. 6
+### Corrigé Ex. 6 
 
 Voir le [corrigé](solutions/td1-ex6.asm).
 
