@@ -28,7 +28,7 @@ En utilisant CMP, ADD, SUB, MOV et les conditions adéquates, écrivez le progra
 
 ## Exercice 3 : 
 
-Refaites la même chose que pour l'exercice précédent, mais cette fois-ci en utilsant des branchements avec conditions
+Refaites la même chose que pour l'exercice précédent, mais cette fois-ci en utilisant des branchements avec conditions. Notez comment le code est beaucoup moins concis et plus difficile à lire que le code de l'exercice 2.
 
 ## Exercice 4 :
 
@@ -36,7 +36,7 @@ Refaites la même chose que pour l'exercice précédent, mais cette fois-ci en u
 
 ## Exercice 5 :
 
-Trouvez la valeur maximum dans un tableau en utilisant une boucle. La valeur maximale doit être stocker dans un registre à la fin du programme.
+Trouvez la valeur maximum dans un tableau en utilisant une boucle. La valeur maximale doit être stockée dans un registre à la fin du programme.
 
 Le tableau contiendra les 6 valeurs suivantes :
 ```data ASSIGN32 0xCAA330B0, 0xE7FA1998, 0x93C2C5DE, 0x9DC73798, 0xEFEF420A, 0x65ACDE56```
