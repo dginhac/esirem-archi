@@ -11,6 +11,7 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ## Les infos 2023-2024:
 
+* 23/01/2024 : Ajout des corrections du TD 2
 * 22/01/2024 : Ajout du TP sur la [Calculatrice à Notation Polonaise Inverse](tp.md)
 * 22/01/2024 : Ajout des corrections du TD 1
 * 21/01/2024 : Ajout du Chapitre 03 - [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf)
@@ -39,7 +40,7 @@ Les sujets de TD sont disponibles :
 
 * [TD 0](td0.md) : Installation du simulateur ARM - Mis à jour le 20/12/2023
 * [TD 1](td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 22/01/2024
-* [TD 2](td2.md) : Conditions, branchements, fonctions, pile - Mis à jour le 19/01/2024
+* [TD 2](td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 23/01/2024
 
 ## TP 2023-2024
 Le sujet de TP est disposible :
