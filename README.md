@@ -11,6 +11,7 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ## Les infos 2023-2024:
 
+* 25/01/2024 : Mis à jour du Chapitre 03 - [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf)
 * 23/01/2024 : Ajout des corrections du TD 2
 * 22/01/2024 : Ajout du TP sur la [Calculatrice à Notation Polonaise Inverse](tp.md)
 * 22/01/2024 : Ajout des corrections du TD 1
@@ -32,7 +33,7 @@ Ils sont disponibles au téléchargement au format pdf :
 * Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 5.6 MB - Mis à jour le 16/12/2023
 * Chapitre 01 : [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf) - 1.5 MB - Mis à jour le 16/12/2023
 * Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf) - 2.9 MB - Mis à jour le 05/01/2024
-* Chapitre 03 : [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf) - 9 MB - Mis à jour le 21/01/2024
+* Chapitre 03 : [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf) - 11 MB - Mis à jour le 25/01/2024
 
 
 ## TD 2023-2024
