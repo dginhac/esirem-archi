@@ -1,4 +1,4 @@
-# Architecture interne des ordinateurs - En route pour la Programmation assembleur
+# Architecture interne des ordinateurs
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 [![License: GPL v3][gpl-3-shield]][gpl-3]
@@ -6,11 +6,17 @@
 ## Introduction
 
 Les documents disponibles sur ce dépot GitHub sont à destination des étudiants de la deuxième année de classe préparatoire de l'école d'ingénieurs
-[ESIREM](https://esirem.u-bourgogne.fr) - Dijon - France.
+[Polytech Dijon](https://esirem.u-bourgogne.fr) - Dijon - France.
 Ils sont susceptibles d'évoluer au fil du temps.
 
-## Les infos 2023-2024:
+## Année 2024 - 2025
 
+### Les news
+
+* 20/11/2024 : Ajout du Chapitre 01 - [Logique Booleenne](https://ginhac.com/archi/01-logique.pdf)
+* 06/11/2024 : Mis à jour du Chapitre 00 - [Introduction](https://ginhac.com/archi/00-introduction.pdf)
+
+<!---
 * 25/01/2024 : Mis à jour du Chapitre 03 - [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf)
 * 23/01/2024 : Ajout des corrections du TD 2
 * 22/01/2024 : Ajout du TP sur la [Calculatrice à Notation Polonaise Inverse](tp.md)
@@ -23,29 +29,52 @@ Ils sont susceptibles d'évoluer au fil du temps.
 * 16/12/2023 : Ajout du Chapitre 01 - [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf)
 * 16/12/2023 : Mis à jour du Chapitre 00 - [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf)
 * 29/11/2023 : Ajout du Chapitre 00 - [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf)
+--->
 
 
-## Cours 2023-2024
+### Cours 2024-2025
 
 Les cours sont organisés en chapitres, chacun d'entre eux étant dédiés à un aspect spécifique du module.
 Ils sont disponibles au téléchargement au format pdf :
 
-* Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/latest/00-introduction.pdf) - 5.6 MB - Mis à jour le 16/12/2023
-* Chapitre 01 : [Architecture d'un processeur](https://ginhac.com/teaching/archi/latest/01-architecture.pdf) - 1.5 MB - Mis à jour le 16/12/2023
-* Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/latest/02-processeur.pdf) - 2.9 MB - Mis à jour le 05/01/2024
-* Chapitre 03 : [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf) - 11 MB - Mis à jour le 25/01/2024
+* Chapitre 00 : [Introduction](https://ginhac.com/archi/00-introduction.pdf) - 13 MB - Mis à jour le 06/11/2024
+* Chapitre 01 : [Logique Booléenne](https://ginhac.com/archi/01-logique.pdf) - 5 MB - Mis à jour le 20/11/2024
+* A suivre ...
+
+### TD 2024-2025
+
+Les sujets de TD ne sont pas encore disponibles.
+
+### TP 2024-2025
+
+Les sujets de TP ne sont pas encore disponibles.
 
 
-## TD 2023-2024
+## Années précédentes
+
+### Cours 2023-2024
+
+Les cours sont organisés en chapitres, chacun d'entre eux étant dédiés à un aspect spécifique du module.
+Ils sont disponibles au téléchargement au format pdf :
+
+* Chapitre 00 : [Introduction](https://ginhac.com/teaching/archi/2023-2024/00-introduction.pdf) - 5.6 MB - Mis à jour le 16/12/2023
+* Chapitre 01 : [Architecture d'un processeur](https://ginhac.com/teaching/archi/2023-2024/01-architecture.pdf) - 1.5 MB - Mis à jour le 16/12/2023
+* Chapitre 02 : [Fonctionnement d'un processeur](https://ginhac.com/teaching/archi/2023-2024/02-processeur.pdf) - 2.9 MB - Mis à jour le 05/01/2024
+* Chapitre 03 : [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/2023-2024/03-arm-architecture.pdf) - 11 MB - Mis à jour le 25/01/2024
+
+
+### TD 2023-2024
 Les sujets de TD sont disponibles :
 
-* [TD 0](td0.md) : Installation du simulateur ARM - Mis à jour le 20/12/2023
-* [TD 1](td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 22/01/2024
-* [TD 2](td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 23/01/2024
+* [TD 0](archives/2023-2024/td0.md) : Installation du simulateur ARM - Mis à jour le 20/12/2023
+* [TD 1](archives/2023-2024/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 22/01/2024
+* [TD 2](archives/2023-2024/td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 23/01/2024
 
-## TP 2023-2024
+Les corrections des TD sont disponibles dans le répertoire [solutions](archives/2023-2024/solutions).
+
+### TP 2023-2024
 Le sujet de TP est disposible :
-* [TP](tp.md) : Calculatrice à Notation Polonaise Inverse - Mis à jour le 22/01/2024
+* [TP](archives/2023-2024/tp.md) : Calculatrice à Notation Polonaise Inverse - Mis à jour le 22/01/2024
 
 ## Licences
 
