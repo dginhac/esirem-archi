@@ -13,8 +13,8 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ### Les news
 
-* 20/11/2024 : Ajout du Chapitre 01 - [Logique Booleenne](https://ginhac.com/archi/01-logique.pdf)
-* 06/11/2024 : Mis à jour du Chapitre 00 - [Introduction](https://ginhac.com/archi/00-intro.pdf)
+* 21/11/2024 : Ajout du Chapitre 01 - [Logique Booleenne](https://ginhac.com/archi/01-logique.pdf)
+* 21/11/2024 : Ajout du Chapitre 00 - [Introduction](https://ginhac.com/archi/00-intro.pdf)
 
 <!---
 * 25/01/2024 : Mis à jour du Chapitre 03 - [Architecture ARM 32 bits](https://ginhac.com/teaching/archi/latest/03-arm-architecture.pdf)
@@ -37,8 +37,8 @@ Ils sont susceptibles d'évoluer au fil du temps.
 Les cours sont organisés en chapitres, chacun d'entre eux étant dédiés à un aspect spécifique du module.
 Ils sont disponibles au téléchargement au format pdf :
 
-* Chapitre 00 : [Introduction](https://ginhac.com/archi/00-intro.pdf) - 13 MB - Mis à jour le 06/11/2024
-* Chapitre 01 : [Logique Booléenne](https://ginhac.com/archi/01-logique.pdf) - 5 MB - Mis à jour le 20/11/2024
+* Chapitre 00 : [Introduction](https://ginhac.com/archi/00-intro.pdf) - 13 MB - Mis à jour le 21/11/2024
+* Chapitre 01 : [Logique Booléenne](https://ginhac.com/archi/01-logique.pdf) - 5 MB - Mis à jour le 21/11/2024
 * A suivre ...
 
 ### TD 2024-2025
