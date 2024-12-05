@@ -13,6 +13,8 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ### Les news
 
+* 05/12/2024 : Ajout du Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf)
+* 04/12/2024 : Mise à jour du Chapitre 02 - [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf)
 * 28/11/2024 : Ajout du Chapitre 02 - [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf)
 * 21/11/2024 : Ajout du Chapitre 01 - [Logique Booleenne](https://ginhac.com/archi/01-logique.pdf)
 * 21/11/2024 : Ajout du Chapitre 00 - [Introduction](https://ginhac.com/archi/00-intro.pdf)
@@ -40,7 +42,8 @@ Ils sont disponibles au téléchargement au format pdf :
 
 * Chapitre 00 : [Introduction](https://ginhac.com/archi/00-intro.pdf) - 13 MB - Mis à jour le 21/11/2024
 * Chapitre 01 : [Logique Booléenne](https://ginhac.com/archi/01-logique.pdf) - 5 MB - Mis à jour le 21/11/2024
-* Chapitre 02 : [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf) - 6 MB - Mis à jour le 28/11/2024
+* Chapitre 02 : [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf) - 6 MB - Mis à jour le 04/12/2024
+* Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf) - 8 MB - Mis à jour le 05/12/2024
 * A suivre ...
 
 ### TD 2024-2025
