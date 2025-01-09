@@ -48,7 +48,14 @@ Ils sont disponibles au téléchargement au format pdf :
 
 ### TD 2024-2025
 
-Les sujets de TD ne sont pas encore disponibles.
+Les sujets de TD sont disponibles :
+
+* [TD 0](td/td0.md) : Installation du simulateur ARM - Mis à jour le 20/12/2023
+* [TD 1](td/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 22/01/2024
+* [TD 2](td/td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 23/01/2024
+
+Les corrections des TD sont disponibles dans le répertoire [solutions](td/solutions).
+
 
 ### TP 2024-2025
 
