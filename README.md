@@ -13,6 +13,7 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ### Les news
 
+* 15/01/2025 : Mise à jour du [tutorial d'installation du simulateur ARM](td/td0.md)
 * 10/01/2025 : Ajout du Chapitre 04 - [Processeur et Jeu d'instructions](https://ginhac.com/archi/04-processeur.pdf)
 * 05/12/2024 : Ajout du Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf)
 * 04/12/2024 : Mise à jour du Chapitre 02 - [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf)
@@ -52,7 +53,7 @@ Ils sont disponibles au téléchargement au format pdf :
 
 Les sujets de TD sont disponibles :
 
-* [TD 0](td/td0.md) : Installation du simulateur ARM - Mis à jour le 20/12/2023
+* [TD 0](td/td0.md) : Installation du simulateur ARM - Mis à jour le 15/01/2025
 * [TD 1](td/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 22/01/2024
 * [TD 2](td/td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 23/01/2024
 
