@@ -33,7 +33,7 @@ Le simulateur nécessite l'installation de certains packages Python :
 * polib (version 1.2.0)
 * beautifulsoup4 (version 4.12.3)
 
-Vous pouvez installer ces packages en utilisant la commande ```pip install -r requirements.txt```, le fichier requirements.txt étant fourni avec les versions des packages nécessaires pour une version 3.11 de Python.
+Vous pouvez installer ces packages en utilisant la commande ```pip install -r requirements.txt```, le fichier requirements.txt étant fourni avec les versions des packages nécessaires pour une version 3.11 de Python. Si vous utilisez une version plus ancienne de Python, vous devrez modifier les versions des packages dans le fichier requirements.txt afin de trouver une version compatible avec votre version de Python.
 
 Une fois copié, dans le dossier du arm-simulateur, il faut exécuter ```pip install -r requirements.txt``` pour installer les packages nécessaires.
 
