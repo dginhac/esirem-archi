@@ -13,6 +13,7 @@ Ils sont susceptibles d'évoluer au fil du temps.
 
 ### Les news
 
+* 22/01/2025 : Ajout du Chapitre 05 - [Architecture ARM](https://ginhac.com/archi/05-arm-architecture.pdf)
 * 15/01/2025 : Mise à jour du [tutorial d'installation du simulateur ARM](td/td0.md)
 * 10/01/2025 : Ajout du Chapitre 04 - [Processeur et Jeu d'instructions](https://ginhac.com/archi/04-processeur.pdf)
 * 05/12/2024 : Ajout du Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf)
@@ -47,6 +48,7 @@ Ils sont disponibles au téléchargement au format pdf :
 * Chapitre 02 : [Encodage binaire](https://ginhac.com/archi/02-encodage.pdf) - 6 MB - Mis à jour le 04/12/2024
 * Chapitre 03 - [Architecture d'un processeur](https://ginhac.com/archi/03-architecture.pdf) - 8 MB - Mis à jour le 05/12/2024
 * Chapitre 04 - [Processeur et Jeu d'instructions](https://ginhac.com/archi/04-processeur.pdf) - 8 MB - Mis à jour le 10/01/2025
+* Chapitre 05 - [Architecture ARM](https://ginhac.com/archi/05-arm-architecture.pdf) - 14 MB - Mis à jour le 22/01/2025
 * A suivre ...
 
 ### TD 2024-2025
@@ -54,7 +56,7 @@ Ils sont disponibles au téléchargement au format pdf :
 Les sujets de TD sont disponibles :
 
 * [TD 0](td/td0.md) : Installation du simulateur ARM - Mis à jour le 15/01/2025
-* [TD 1](td/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 22/01/2024
+* [TD 1](td/td1.md) : Initiation à la programmation assembleur ARM - Corrections disponibles - Mis à jour le 20/01/2025
 * [TD 2](td/td2.md) : Conditions, branchements, fonctions, pile - Corrections disponibles - Mis à jour le 23/01/2024
 
 Les corrections des TD sont disponibles dans le répertoire [solutions](td/solutions).
