@@ -4,7 +4,7 @@
 
 L'objectif de ce TP est de développer une calculatrice fonctionnant en notation polonaise inverse (RPN) en utilisant l'assembleur de l'ARM7TDMI. Les expressions mathématiques à évaluer seront stockées dans la mémoire de l'ARM sous la forme d'un tableau de données ASCII codées sur 8 bits.
 
-![Une Calculatrice RPN](images/rpn_calculator.jpg "Une Calculatrice RPN").
+![Une Calculatrice RPN](./images/rpn_calculator.jpg "Une Calculatrice RPN").
 
 
 
