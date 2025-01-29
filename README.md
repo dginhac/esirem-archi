@@ -64,7 +64,8 @@ Les corrections des TD sont disponibles dans le répertoire [solutions](td/solut
 
 ### TP 2024-2025
 
-Les sujets de TP ne sont pas encore disponibles.
+Le sujet de TP est disponible.
+* [TP](tp/tp.md) : Calculatrice à Notation Polonaise Inverse - Mis à jour le 22/01/2024
 
 
 ## Années précédentes
