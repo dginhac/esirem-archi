@@ -52,7 +52,7 @@ l'algorithme mis en oeuvre est (voir image ci-dessous) :
 
 La pile est un mécanisme essentiel pour suivre l'ordre d'évaluation des opérations dans la notation polonaise inverse sans avoir besoin d'utiliser des parenthèses pour déterminer l'ordre des opérations.
 
-![Exemple de calcul RPN](images/RPN-sample.png "Exemple de calcul RPN").
+![Exemple de calcul RPN](../images/RPN-sample.png "Exemple de calcul RPN").
 
 ## Fonctionnalités principales à développer
 
@@ -66,7 +66,7 @@ Pour les chiffres et les lettres, l'ASCII utilise des valeurs numériques spéci
 
 Vous retrouverez l'ensemble de la table ASCII sur la figure suivante :
 
-![Table ASCII](images/ASCII-Table.png "Table ASCII").
+![Table ASCII](../images/ASCII-Table.png "Table ASCII").
 
 En utilisant le code des chiffres et des opérations de base 
 ```(*, +, -, /)```, encodez plusieurs opérations de complexité croissante comme par exemple :
